@@ -7,5 +7,5 @@ ModelTraining=st.beta_container()
 
 with header:
     st.title('Welcome to my Boskalis DES project')
-    st.video(video_file)
+
 
